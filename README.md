@@ -1,4 +1,7 @@
-## Hi there 👋
+Hi, I am Prapti Singh  
+B.Tech CSE, 1st Year  
+
+I am interested in learning programming and improving my technical skills.
 
 <!--
 **prapti25bce10317-del/prapti25bce10317-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
