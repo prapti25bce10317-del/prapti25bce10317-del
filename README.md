@@ -1,5 +1,5 @@
 Hi, I am Prapti Singh  
-B.Tech CSE, 1st Year  
+B.Tech CSE, 2nd Year  
 
 I am interested in learning programming and improving my technical skills.
 
